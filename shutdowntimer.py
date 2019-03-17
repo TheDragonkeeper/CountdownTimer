@@ -18,7 +18,7 @@ def getrooted():
         print("no roots here, cya")
         quit()
 
-#getrooted()
+getrooted()
 
 
 class AppWindow(QDialog):
